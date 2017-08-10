@@ -1,3 +1,7 @@
 
 探究算法的过程反映出的是我们对这个世界的认知方法L是唯唯诺诺的将课本当作圣经，还是通过
 “实验-失败-再实验”循环的锤炼？
+
+In an application where we are processing millions of objects,
+it is not unusual to be able to make a program millions of times faster by using a well-
+designed algorithm. 
